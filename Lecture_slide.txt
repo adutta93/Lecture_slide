@@ -120,6 +120,10 @@ Day 4:
 Dynamic programming day -1 
 https://repl.it/repls/CriticalMajorModem
 
+Day 5:
+Dynamic programming day -2 
+repl -- https://repl.it/repls/ScientificVariableSandbox
+
 
 
 
