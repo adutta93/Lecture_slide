@@ -126,7 +126,8 @@ repl -- https://repl.it/repls/ScientificVariableSandbox
 
 -------------------------------------------------------------Week 9------------------------------------------------------------------------------
 
-day -1:
+Day -1:
+Dynamic programming day -3
 repl_link --- > https://repl.it/repls/FunctionalGreatAudacity
 mentor_session ---> https://repl.it/@atanupaul1/python-repl
 
