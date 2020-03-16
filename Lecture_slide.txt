@@ -124,6 +124,11 @@ Day 5:
 Dynamic programming day -2 
 repl -- https://repl.it/repls/ScientificVariableSandbox
 
+-------------------------------------------------------------Week 9------------------------------------------------------------------------------
+
+day -1:
+repl_link --- > https://repl.it/repls/FunctionalGreatAudacity
+mentor_session ---> https://repl.it/@atanupaul1/python-repl
 
 
 
