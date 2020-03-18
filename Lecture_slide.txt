@@ -131,5 +131,12 @@ Dynamic programming day -3
 repl_link --- > https://repl.it/repls/FunctionalGreatAudacity
 mentor_session ---> https://repl.it/@atanupaul1/python-repl
 
+Day -2:
+Dynamic programming day -4
+repl_link---> https://repl.it/repls/CrookedAnnualRhombus
 
+Day -3:
+Dynamic programming day -5
+repl_link---> https://repl.it/repls/GlossyDirectParameter
+lecture slide--->https://docs.google.com/presentation/d/1xvnHzMMmKz4gLTtW4eQr97E90WcjXs--RkwDmO10DWY/edit#slide=id.g818e3402e2_0_0
 
