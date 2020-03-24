@@ -142,6 +142,7 @@ lecture slide--->https://docs.google.com/presentation/d/1xvnHzMMmKz4gLTtW4eQr97E
 
 Day-5:
 Operating System Started.(Day-1)
+lecture_slide--->https://docs.google.com/presentation/d/1qtWb3jq7uzI7fB5z0Z7zFEfEGJtfxCTUTH0k3caBp6s/edit#slide=id.g81b204f88c_0_11
 
 -------------------------------------------------------------Week 10------------------------------------------------------------------------------
 
@@ -151,4 +152,5 @@ lecture slide--->https://docs.google.com/presentation/d/1CRhbJPA3t4xvACowDdwhXdR
 
 Day 2:
 Networking(day 1)
+lecture_slide---> https://attainurobin.slack.com/files/USU9QRN1E/F010BFSF89F/networking_complete.pptx
 
