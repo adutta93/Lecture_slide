@@ -140,3 +140,15 @@ Dynamic programming day -5
 repl_link---> https://repl.it/repls/GlossyDirectParameter
 lecture slide--->https://docs.google.com/presentation/d/1xvnHzMMmKz4gLTtW4eQr97E90WcjXs--RkwDmO10DWY/edit#slide=id.g818e3402e2_0_0
 
+Day-5:
+Operating System Started.(Day-1)
+
+-------------------------------------------------------------Week 10------------------------------------------------------------------------------
+
+Day 1:
+Operating System Day-2
+lecture slide--->https://docs.google.com/presentation/d/1CRhbJPA3t4xvACowDdwhXdRXjkLAb1HaAdnF6lQuUaA/edit#slide=id.g71c7db2b3d_0_10
+
+Day 2:
+Networking(day 1)
+
