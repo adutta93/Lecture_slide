@@ -160,4 +160,13 @@ Networking(day 2)
 lecture_slide---> https://docs.google.com/presentation/d/1reNB0qmD1R7EuEtyWbOF_iyweWTrke4gpvFmtv0GzTg/edit#slide=id.p
 
 
+Day 4:
+System design revisit-
+lecture_slide--->https://docs.google.com/presentation/d/1YuisAe4aUxHGTqrp9-qNIK5Ls01tORnqVZVyajvPE64/edit#slide=id.g82703f3935_0_59
+
+
+
+
+
+
 
