@@ -165,8 +165,10 @@ System design revisit-
 lecture_slide--->https://docs.google.com/presentation/d/1YuisAe4aUxHGTqrp9-qNIK5Ls01tORnqVZVyajvPE64/edit#slide=id.g82703f3935_0_59
 
 
+-------------------------------------------------------------Week 11------------------------------------------------------------------------------
 
-
-
+Day 1:
+JavaScript day-1
+lecture note--->https://www.evernote.com/shard/s581/client/snv?noteGuid=4d64f8f1-aee7-421c-a44c-40e011c2013d&noteKey=8af2d6cb7b9df425&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs581%2Fsh%2F4d64f8f1-aee7-421c-a44c-40e011c2013d%2F8af2d6cb7b9df425&title=Notes%2B30th%2BMarch%2B2020%253A
 
 
