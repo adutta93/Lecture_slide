@@ -174,3 +174,7 @@ lecture note--->https://www.evernote.com/shard/s581/client/snv?noteGuid=4d64f8f1
 Day 2:
 JavaScript day-2
 lecture note--->https://www.evernote.com/shard/s581/client/snv?noteGuid=e3e20f58-5120-458f-87e9-09accf6dcdf2&noteKey=848b73f02e84e8ab&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs581%2Fsh%2Fe3e20f58-5120-458f-87e9-09accf6dcdf2%2F848b73f02e84e8ab&title=Notes%2B31st%2BMarch%2B2020%253A
+
+Day 3:
+JavaScript day-3
+lecture note--->https://www.evernote.com/shard/s581/client/snv?noteGuid=529f8f26-ccd2-4e44-83ae-226d0fac712c&noteKey=1211e8c8e41d9425&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs581%2Fsh%2F529f8f26-ccd2-4e44-83ae-226d0fac712c%2F1211e8c8e41d9425&title=Notes%2B1st%2BApril%2B2020%253A
