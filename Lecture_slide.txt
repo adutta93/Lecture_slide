@@ -186,3 +186,10 @@ lecture note--->https://www.evernote.com/shard/s581/client/snv?noteGuid=00dce5f9
 Day 5:
 JavaScript day-5
 lecture note--->https://www.evernote.com/shard/s581/client/snv?noteGuid=24addf39-3278-49b3-ab82-084b8a9044ea&noteKey=980169fd99c854f2&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs581%2Fsh%2F24addf39-3278-49b3-ab82-084b8a9044ea%2F980169fd99c854f2&title=Notes%2B3rd%2BApril%2B2020%253A
+
+
+-------------------------------------------------------------Week 12------------------------------------------------------------------------------
+
+Day 1:
+JavaScript day-6
+lecture note--->https://www.evernote.com/shard/s581/client/snv?noteGuid=b502538e-a017-4855-ac76-5b9712926f5e&noteKey=d41812e0342ab63c&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs581%2Fsh%2Fb502538e-a017-4855-ac76-5b9712926f5e%2Fd41812e0342ab63c&title=Notes%2B6th%2BApril%2B2020%253A
