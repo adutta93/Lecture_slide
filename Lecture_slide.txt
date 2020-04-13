@@ -201,3 +201,13 @@ lecture note--->https://www.evernote.com/shard/s581/client/snv?noteGuid=e5232731
 Day 4:
 JavaScript day-8
 lecture note--->https://www.evernote.com/shard/s581/client/snv?noteGuid=cd5bb75a-75f7-4983-931c-d3d51f7168a6&noteKey=08d2bde36f6ff208&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs581%2Fsh%2Fcd5bb75a-75f7-4983-931c-d3d51f7168a6%2F08d2bde36f6ff208&title=Notes%2B9th%2BApril%2B2020%253A
+
+Day 5:
+JavaScript day-9
+lecture note--->https://www.evernote.com/shard/s581/client/snv?noteGuid=3ee64c25-c034-4e1c-b4a6-90a6c99d3114&noteKey=14d94b5729b842f6&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs581%2Fsh%2F3ee64c25-c034-4e1c-b4a6-90a6c99d3114%2F14d94b5729b842f6&title=Notes%2B12th%2BApril%2B2020%253A
+
+-------------------------------------------------------------Week 13------------------------------------------------------------------------------
+
+Day 1:
+JavaScript day-10
+lecture note--->https://www.evernote.com/shard/s581/client/snv?noteGuid=5ca53765-1857-4aa5-b820-4e4a8874e3d0&noteKey=92573f558966d6dd&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs581%2Fsh%2F5ca53765-1857-4aa5-b820-4e4a8874e3d0%2F92573f558966d6dd&title=Notes%2B13th%2BApril%2B2020%253A
