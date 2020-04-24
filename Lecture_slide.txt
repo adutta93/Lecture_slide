@@ -219,3 +219,25 @@ lecture note--->https://www.evernote.com/shard/s581/client/snv?noteGuid=44bf5a1f
 Day 3:
 JavaScript day-12
 lecture note--->https://www.evernote.com/shard/s581/client/snv?noteGuid=948cef45-afa3-4992-9a48-7d98b344786a&noteKey=9772f4c0758af84c&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs581%2Fsh%2F948cef45-afa3-4992-9a48-7d98b344786a%2F9772f4c0758af84c&title=Notes%2B16th%2BApril%2B2020%253A
+
+
+-------------------------------------------------------------Week 14------------------------------------------------------------------------------
+
+Day 1:
+Introduction to NodeJS
+lecture note--->https://www.evernote.com/shard/s581/client/snv?noteGuid=1e824e47-ed76-475f-bb19-81bff8d9d054&noteKey=7998eef91f4900ac&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs581%2Fsh%2F1e824e47-ed76-475f-bb19-81bff8d9d054%2F7998eef91f4900ac&title=Notes%2B20th%2BApril%2B2020%253A
+
+Day 3:
+Node JS - day 2
+lecture note--->https://www.evernote.com/shard/s581/client/snv?noteGuid=bc79d02d-fb2d-46b3-b138-65b1fcb76c22&noteKey=ee600d2c544d212f5e3940410b6fb6ce&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs581%2Fsh%2Fbc79d02d-fb2d-46b3-b138-65b1fcb76c22%2Fee600d2c544d212f5e3940410b6fb6ce&title=Notes%2B22nd%2BApril%2B2020%253A
+
+Day 4:
+Express JS - day 1
+lecture note--->https://www.evernote.com/shard/s581/client/snv?noteGuid=fc8e2aa5-b32d-4491-83f7-b9bd7b74ee86&noteKey=99f2fa2794f90422ba2fff762f833bfa&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs581%2Fsh%2Ffc8e2aa5-b32d-4491-83f7-b9bd7b74ee86%2F99f2fa2794f90422ba2fff762f833bfa&title=Notes%2B23rd%2BApril%2B2020%253A
+
+Day 5:
+Express JS - day 2
+lecture note--->https://www.evernote.com/shard/s581/client/snv?noteGuid=f5547ef2-9617-435b-98b2-263af8b2c5c4&noteKey=34b86f290510caaabdb6434e2e16736a&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs581%2Fsh%2Ff5547ef2-9617-435b-98b2-263af8b2c5c4%2F34b86f290510caaabdb6434e2e16736a&title=Notes%2B24thApril%2B2020%253A
+
+
+-------------------------------------------------------------Week 15------------------------------------------------------------------------------
